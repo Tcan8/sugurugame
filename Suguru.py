@@ -1,5 +1,7 @@
 import copy
 
+###Sugurugame
+
 class Suguru:
   class State:
     def __init__(self, size, cells, known):
