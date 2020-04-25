@@ -1,6 +1,6 @@
 import copy
 
-###Sugurugame
+###Sugurugam
 
 class Suguru:
   class State:
